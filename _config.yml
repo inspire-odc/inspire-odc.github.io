@@ -1,0 +1,11 @@
+port:  5000
+markdown: kramdown
+name: INSPIRE
+url: inspire.opendatachina.com
+title: INSPIRE 开放数据应用案例库
+description: INSPIRE 开放数据应用案例库
+encoding: utf-8
+timezone: China/Beijing
+permalink: /:categories/:title
+
+
